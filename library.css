@@ -1,0 +1,100 @@
+.library{
+    display: flex;
+    justify-content: space-around;
+}
+.Book1{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: blue;
+}
+.author1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.nameBook1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 7px;
+}
+.price1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.Book2{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: blueviolet;
+}
+.author2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.nameBook2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 7px;
+}
+.price2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.Book3{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: orangered;
+}
+.author3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.nameBook3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 7px;
+}
+.price3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.Book4{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: greenyellow;
+}
+.author4{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+.nameBook4{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 7px;
+}
+.price4{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
